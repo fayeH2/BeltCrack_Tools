@@ -94,6 +94,6 @@ Lightweight utilities for dataset construction, preprocessing, annotation proces
 
 <div align="center">
 
-<b>📧 Email Contact</b>: jianghong@std.uestc.edu.cn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>📄 License</b>: Released under the **Apache License 2.0**.
+<b>📧 Email Contact</b>: jianghong@std.uestc.edu.cn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>📄 License</b>: Released under the **Apache License 2.0**.
 
 </div>
